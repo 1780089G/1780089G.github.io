@@ -1,14 +1,20 @@
 h1 {
-			color: purple;
+			color: white;
+/*			bordrer-color: black;
+			border-width: 5px;
+			border-style: solid;*/
+			border: 5px solid white; 
 		}
 
 		li {
-			color: orange;
+			color: black;
 		}
 		h4 {
-			color: green;
+			color: white;
 		}
 
 body {
 	background: url(back.jpg);
+	background-repeat: no-repeat;
+	background-size:  cover;
 }
