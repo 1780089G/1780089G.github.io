@@ -3,7 +3,7 @@ h1 {
 /*			bordrer-color: black;
 			border-width: 5px;
 			border-style: solid;*/
-			border: 5px solid white; 
+			border: 1px solid white; 
 		}
 
 		li {
@@ -16,5 +16,5 @@ h1 {
 body {
 	background: url(back.jpg);
 	background-repeat: no-repeat;
-	background-size:  cover;
+	background-size: cover;
 }
