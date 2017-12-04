@@ -1,9 +1,10 @@
 h1 {
 			color: white;
+			background-repeat: no-repeat;
 /*			bordrer-color: black;
 			border-width: 5px;
 			border-style: solid;*/
-			border: 5px solid white; 
+			border: 1px solid white; 
 		}
 
 		li {
