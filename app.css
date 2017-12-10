@@ -74,6 +74,10 @@ body {
 		color: white;
 		text-align: center;
 	}
+  p {
+    color: white;
+    margin: 50%;
+  }
 /*p {
   animation-duration: 3s;
   animation-name: slidein;
